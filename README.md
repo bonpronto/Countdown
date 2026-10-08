@@ -1,4 +1,4 @@
 # Countdown
-index =  Chaosbande
-Countdown = für mich selber
-Countdown1 = Operation: Reallife
+index =  Chaosbande|
+Countdown = für mich selber|
+Countdown1 = Operation: Reallife|
